@@ -1,4 +1,4 @@
-## Hi, i´m Matheus Diniz👋
+## Hi ✋, i´m Matheus Diniz.
 <p> Hello, I'm currently a <strong>student of Systems Analysis and Development</strong>. I'm working on some projects that I will soon upload to GitHub. Currently, my focus is on the Java language and its frameworks.</p>
 
 ![Snake animation](https://github.com/tmatheusdiniz/tmatheusdiniz/blob/output/github-contribution-grid-snake-dark.svg)
