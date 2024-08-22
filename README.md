@@ -1,5 +1,5 @@
 ## Hi ✋, i´m Matheus Diniz.
-<p> Hello, I'm currently a <strong>student of Systems Analysis and Development</strong>. I'm working on some projects that I will soon upload to GitHub. Currently, my focus is on the Java language and its frameworks.</p>
+<p> Hello, I'm currently a <strong>student of Systems Analysis and Development</strong>. I'm working on some projects that i will soon upload to GitHub. Currently, my focus is on the Java language and its frameworks.</p>
 
 <!--
 <div>
