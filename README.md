@@ -1,8 +1,8 @@
 ## **About Me**
 
-Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year of Systems Analysis and Development</strong> at [UNIAMÉRICA](https://uniamerica.br) . I'm also starting a new jorney as a student at [42porto](https://www.42porto.com). In addition, I'm working on some personal projects. </p>
+Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year of Systems Analysis and Development</strong> at [Uniamérica](https://uniamerica.br) . I'm also starting a new jorney as a student at [42Porto](https://www.42porto.com). In addition, I'm working on some personal projects. </p>
 
-## **I've currently been working with...**
+## **These are the languages, frameworks and tools I've studied so far: **
 
 <img src="red_purple_strip.png">
 
