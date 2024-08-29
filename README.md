@@ -1,6 +1,6 @@
 ## **About Me**
 
-Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year of Systems Analysis and Development</strong> at [UNIAMÉRICA](https://uniamerica.br) . I'm also starting a new jorney as a student at [42porto](https://www.42porto.com) In addition, I'm working on some personal projects. </p>
+Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year of Systems Analysis and Development</strong> at [UNIAMÉRICA](https://uniamerica.br) . I'm also starting a new jorney as a student at [42porto](https://www.42porto.com). In addition, I'm working on some personal projects. </p>
 
 ## **I've currently been working with...**
 
@@ -47,7 +47,7 @@ Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year o
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmatheusdiniz&layout=compact) 
 
 <div align="center">
-	<a href="(https://www.linkedin.com/in/matheus-diniz-065140254/)">
+	<a href="https://www.linkedin.com/in/matheus-diniz-065140254/" target="_blank">
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 	</a>
 </div>
