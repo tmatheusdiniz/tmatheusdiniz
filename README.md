@@ -51,3 +51,9 @@ Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year o
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 	</a>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmatheusdiniz/tmatheusdiniz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmatheusdiniz/tmatheusdiniz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmatheusdiniz/tmatheusdiniz/output/github-contribution-grid-snake.svg">
+</picture>
