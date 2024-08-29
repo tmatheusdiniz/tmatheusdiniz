@@ -43,8 +43,8 @@ Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year o
 
  ## **GitHub info**
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tmatheusdiniz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmatheusdiniz&layout=compact) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=tmatheusdiniz&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=tmatheusdiniz&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/matheus-diniz-065140254/" target="_blank">
