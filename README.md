@@ -50,6 +50,9 @@ Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year o
 	<a href="https://www.linkedin.com/in/matheus-diniz-065140254/" target="_blank">
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 	</a>
+	<a href="mailto:tmatheusdiniz@outlook.pt">
+  <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=&logoColor=FFFFFF" alt="Email">
+	</a>
 </div>
 
 <picture align="center">
