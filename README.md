@@ -2,6 +2,13 @@
 
 Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year of Systems Analysis and Development</strong> at [Uniamérica](https://uniamerica.br) . I'm also starting a new jorney as a student at [42Porto](https://www.42porto.com). In addition, I'm working on some personal projects. </p>
 
+<h2> Currently </h2>
+<ul>
+  <li>📚 I’m currently working on <a href="https://github.com/tmatheusdiniz/42-Born2beroot">Born2beroot</a>.</li>
+  <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, <strong>Java</strong> and <strong>Shell</strong>.</li>
+  <li>🖴 Most of my projects are available on <a href="https://github.com/tmatheusdiniz?tab=repositories">Github</a>.</li>
+</ul>
+
 ## **These are the languages, frameworks and tools I've studied so far:**
 
 <img src="red_purple_strip.png">
@@ -42,21 +49,15 @@ Hi ✋, i´m Matheus Diniz. <p> I'm currently enrolled on the <strong>2st year o
 <img src="red_purple_strip.png">
 
  ## **GitHub info**
- 
+<div align="center">
+	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=tmatheusdiniz&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=tmatheusdiniz&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/matheus-diniz-065140254/" target="_blank">
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 	</a>
-	<a href="mailto:tmatheusdiniz@outlook.pt">
-  <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=&logoColor=FFFFFF" alt="Email">
-	</a>
 </div>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmatheusdiniz/tmatheusdiniz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmatheusdiniz/tmatheusdiniz/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tmatheusdiniz/tmatheusdiniz/output/github-contribution-grid-snake.svg">
-</picture>
