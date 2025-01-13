@@ -27,7 +27,7 @@ typedef struct s_tmatheusdiniz
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,bash,vim,neovim,vscode,html,css,wordpress,linux,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,eclipse,postman,bash,vim,neovim,vscode,html,css,wordpress,linux,git,github)](https://skillicons.dev)
 
 <br>
 
