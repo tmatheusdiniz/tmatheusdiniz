@@ -19,7 +19,7 @@ typedef struct s_tmatheusdiniz
 <ul>
   <li>🏫 I'm currently enrolled in the <strong>2nd year of Systems Analysis and Development</strong> at <a href="https://uniamerica.br">Uniamérica</a>. I'm also starting a new journey as a student at <a href="https://www.42porto.com">42Porto</a>. In addition, I'm working on some personal projects.</li>
   <li>📚 I’m currently working on <a href="https://github.com/Albertoocosta/42-Minishell">Minishell</a>.</li>
-  <li>🧐 Learning about <strong>Linux</strong>, <strong>C</strong>, <strong>Java</strong>, and <strong>Shell</strong>.</li>
+  <li>🧐 Learning about <strong>C</strong>, <strong>Java</strong>, <strong>Linux</strong> and <strong>Shell</strong>.</li>
   <li>🖴 Most of my projects are available on <a href="https://github.com/tmatheusdiniz?tab=repositories">Github</a>.</li>
 </ul>
 
