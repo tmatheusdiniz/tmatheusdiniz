@@ -6,7 +6,7 @@ typedef struct s_tmatheusdiniz
 	const char *name = "Matheus Diniz";
 	int years = 25;
 	char *education = "42 Porto";
-	char *interest = "Linux, Java and C programming, Cybersecurity";
+	char *interest = "Computer Science";
 }	t_tmatheusdiniz;	
 ```
 <div align="left">
