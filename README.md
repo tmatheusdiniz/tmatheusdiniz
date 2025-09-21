@@ -18,7 +18,7 @@ typedef struct s_tmatheusdiniz
 <h2>Currently</h2>
 <ul>
   <li>🏫 I've completed <strong>Systems Analysis and Development</strong> course at <a href="https://uniamerica.br">Uniamérica</a>. I'm currently pursuing a degree in Software Engineering course at <a href="https://www.42porto.com">42Porto</a>. In addition, I'm working on some personal projects.</li>
-  <li>📚 I’m currently working on <a href="https://github.com/Albertoocosta/42-Minishell">Minishell</a>.</li>
+  <li>📚 I’m currently working on <a href="https://github.com/tmatheusdiniz/42-cpp">CPP</a>.</li>
   <li>🧐 Learning about <strong>C</strong>, <strong>Java</strong>, <strong>Linux</strong> and <strong>Shell</strong>.</li>
   <li>🖴 Most of my projects are available on <a href="https://github.com/tmatheusdiniz?tab=repositories">Github</a>.</li>
 </ul>
