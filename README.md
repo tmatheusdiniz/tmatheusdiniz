@@ -25,11 +25,34 @@ typedef struct s_tmatheusdiniz
 
 ## **Hard Skills:**
 
+<div align="center">
+<!-- Gaming-themed separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+#### Main Stack:
+
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,eclipse,postman,bash,vim,neovim,vscode,html,css,wordpress,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,eclipse,postman,git,github)](https://skillicons.dev)
+
+#### Secondary Stack:
 
 <br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,wordpress)](https://skillicons.dev)
+
+#### Database:
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev)
+
+#### Developer tools:
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,neovim,vscode)](https://skillicons.dev)
 
  ## **GitHub info**
 <div align="center">
