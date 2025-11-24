@@ -23,36 +23,52 @@ typedef struct s_tmatheusdiniz
   <li>🖴 Most of my projects are available on <a href="https://github.com/tmatheusdiniz?tab=repositories">Github</a>.</li>
 </ul>
 
-## **Hard Skills:**
-
+#### **Hard Skills:**
 <div align="center">
-<!-- Gaming-themed separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 #### Main Stack:
-
 <br>
-
+<div align="left">
+	
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,eclipse,postman,git,github)](https://skillicons.dev)
+</div> 
+
+<div>
+<img src="./assets/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer and coffe">
+<div style="float: left; width: 60%;">
 
 #### Secondary Stack:
-
 <br>
-
+<div align="left">
+	
 [![My Skills](https://skillicons.dev/icons?i=html,css,wordpress)](https://skillicons.dev)
+</div> 
 
 #### Database:
 
 <br>
 
+<div align="left">
+	
 [![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev)
 
+</div>
+
 #### Developer tools:
-
 <br>
-
+<div align="left">
+	
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,neovim,vscode)](https://skillicons.dev)
+</div>
+
+</div>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
  ## **GitHub info**
 <div align="center">
@@ -61,4 +77,3 @@ typedef struct s_tmatheusdiniz
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=tmatheusdiniz&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
