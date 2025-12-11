@@ -69,11 +69,3 @@ typedef struct s_tmatheusdiniz
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
- ## **GitHub info**
-<div align="center">
-	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=tmatheusdiniz&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=tmatheusdiniz&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
