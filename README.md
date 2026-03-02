@@ -73,17 +73,20 @@ typedef struct s_tmatheusdiniz
 ### 📚 Completed Projects
 
 - 🏊 Piscine C: Intensive admission bootcamp at 42 Porto that grants access to the 42 core curriculum. Covers C programming, algorithms, memory management, UNIX system fundamentals, Bash, and bash scripting.
+
 - 📚 Libft: Reimplementation of essential C standard library functions, reinforcing low-level memory handling and modular programming.
 
 - 🖨️ ft_printf: Custom implementation of the printf function using variadic arguments and format parsing.
 
 - 📖 Get Next Line: Function that reads a file line by line using static variables and efficient buffer management.
 
+- 🖥️ Born2beroot: System administration project focused on Linux server setup, virtualization, security policies, and SSH configuration.
+
 - 📊 FDF: 3D wireframe visualizer for height maps using projection techniques and graphical rendering.
 
-- 🔢 Push Swap: Algorithmic challenge focused on sorting optimization using two stacks with minimal operations.
+- 🔗 Pipex (C): Implementation of a UNIX pipe mechanism in C, reproducing shell command chaining (cmd1 | cmd2) using system calls such as fork, execve, pipe, and dup2, with proper error handling and process synchronization.
 
-- 🖥️ Born2beroot: System administration project focused on Linux server setup, virtualization, security policies, and SSH configuration.
+- 🔢 Push Swap: Algorithmic challenge focused on sorting optimization using two stacks with minimal operations.
 
 - 🐚 Minishell: Custom Bash-like shell supporting pipes, redirections, environment variables, and built-in commands.
 
