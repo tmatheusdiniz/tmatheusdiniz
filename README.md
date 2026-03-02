@@ -34,7 +34,7 @@ typedef struct s_tmatheusdiniz
 </div> 
 
 <div>
-<img src="./assets/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer and coffe">
+<img src="./assets/coffe_img.png" min-width="500px" max-width="400px" width="400px" align="right" alt="Computer and coffe">
 <div style="float: left; width: 60%;">
 
 #### Secondary Stack:
