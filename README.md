@@ -9,9 +9,13 @@ typedef struct s_tmatheusdiniz
 	char *interest = "Computer Science";
 }	t_tmatheusdiniz;	
 ```
+
 <div align="left">
-	<a href="https://www.linkedin.com/in/tmatheusdiniz/" target="_blank">
-		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+	<a href="https://www.linkedin.com/in/tmatheusdiniz/">
+		<img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+	</a>
+	<a href="mailto:tmatheusdiniz@outlook.pt">
+		<img src="https://img.shields.io/badge/-Email%20Me-8B89CC?style=for-the-badge&logo=Microsoft-Outlook&logoColor=FFFFFF" alt="Email">
 	</a>
 </div>
 
