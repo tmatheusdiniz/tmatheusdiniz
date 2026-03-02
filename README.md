@@ -41,7 +41,7 @@ typedef struct s_tmatheusdiniz
 <br>
 <div align="left">
 	
-[![My Skills](https://skillicons.dev/icons?i=html,css,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 </div> 
 
 #### Database:
