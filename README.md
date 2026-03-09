@@ -17,6 +17,9 @@ typedef struct s_tmatheusdiniz
 	<a href="mailto:tmatheusdiniz@outlook.pt">
 		<img src="https://img.shields.io/badge/-Email%20Me-8B89CC?style=for-the-badge&logo=Microsoft-Outlook&logoColor=FFFFFF" alt="Email">
 	</a>
+	<a href="https://tmatheusdinizdev.pt">
+		<img src="https://img.shields.io/badge/-Portfolio-8B89CC?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Portfolio">
+	</a>
 </div>
 
 ### Currently
