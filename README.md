@@ -12,13 +12,13 @@ typedef struct s_tmatheusdiniz
 
 <div align="left">
 	<a href="https://www.linkedin.com/in/tmatheusdiniz/">
-		<img src="https://img.shields.io/badge/-Visit%20my%20LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
 	<a href="mailto:tmatheusdiniz@outlook.pt">
-		<img src="https://img.shields.io/badge/-Email%20Me-8B89CC?style=for-the-badge&logo=Microsoft-Outlook&logoColor=FFFFFF" alt="Email">
+		<img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Email">
 	</a>
 	<a href="https://tmatheusdinizdev.pt">
-		<img src="https://img.shields.io/badge/-Portfolio-8B89CC?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Portfolio">
+		<img src="https://img.shields.io/badge/Portfolio-8B89CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 	</a>
 </div>
 
