@@ -99,15 +99,18 @@ typedef struct s_tmatheusdiniz
 
 - 🍽️ Philosophers: Multithreading project solving the dining philosophers problem using mutexes and synchronization techniques.
 
-- ➕ C++ Modules: Comprehensive C++98 OOP track covering class design, inheritance, polymorphism, templates, STL, and advanced object-oriented concepts.
+- 🌐 NetPractice: Networking project focused on understanding TCP/IP addressing, subnetting, and routing. It involves solving practical exercises to configure IP ranges, subnet masks, and gateways to ensure proper communication between networked devices.
 
-### 🛠️ Currently Working On
+- ➕ C++ Modules: Comprehensive C++98 OOP track covering class design, inheritance, polymorphism, templates, STL, and advanced object-oriented concepts.
 
 - 🎨 MiniRT (C): Mini ray tracing engine built from scratch. Implements light physics, object intersections, transformations, and real-time rendering concepts
 
-### 🔮 Future Projects
+
+### 🛠️ Currently Working On
 
 - 🐳 Inception: Docker-based multi-container infrastructure project. Deployment of services including WordPress, MariaDB, and Nginx with custom networking and container orchestration.
+
+### 🔮 Future Projects
 
 - 🌐 Webserver (C++): Implementation of a fully functional HTTP web server in C++. Handles HTTP requests, CGI execution, file serving, configuration parsing, and concurrent connections — built following HTTP/1.1 standards.
 
