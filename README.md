@@ -24,7 +24,7 @@ typedef struct s_tmatheusdiniz
 
 ### Currently
 <ul>
-  <li>🏫 I've completed <strong>Systems Analysis and Development</strong> course at <a href="https://uniamerica.br">Uniamérica</a>. I'm currently pursuing a degree in Software Engineering course at <a href="https://www.42porto.com">42Porto</a>. In addition, I'm working on some personal projects.</li>
+  <li>🏫 I've completed <strong>Systems Analysis and Development</strong> course at <a href="https://uniamerica.br">Uniamérica</a>. I'm currently pursuing a degree in Software Engineering at <a href="https://www.42porto.com">42Porto</a>. In addition, I'm working on some personal projects.</li>
   <li>🖴 Most of my projects are available on <a href="https://github.com/tmatheusdiniz?tab=repositories">Github</a>.</li>
 </ul>
 
