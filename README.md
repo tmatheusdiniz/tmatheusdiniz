@@ -105,13 +105,13 @@ typedef struct s_tmatheusdiniz
 
 - 🎨 MiniRT (C): Mini ray tracing engine built from scratch. Implements light physics, object intersections, transformations, and real-time rendering concepts
 
+- 🐳 Inception: Docker-based multi-container infrastructure project. Deployment of services including WordPress, MariaDB, and Nginx with custom networking and container orchestration.
+
 
 ### 🛠️ Currently Working On
 
-- 🐳 Inception: Docker-based multi-container infrastructure project. Deployment of services including WordPress, MariaDB, and Nginx with custom networking and container orchestration.
+- 🌐 Webserver (C++): Implementation of a fully functional HTTP web server in C++. Handles HTTP requests, CGI execution, file serving, configuration parsing, and concurrent connections — built following HTTP/1.1 standards.
 
 ### 🔮 Future Projects
-
-- 🌐 Webserver (C++): Implementation of a fully functional HTTP web server in C++. Handles HTTP requests, CGI execution, file serving, configuration parsing, and concurrent connections — built following HTTP/1.1 standards.
 
 - 🎮 Transcendence (Java): Full-stack web application featuring a real-time multiplayer Pong game. Includes authentication, matchmaking, chat, and live gameplay using modern web technologies.
