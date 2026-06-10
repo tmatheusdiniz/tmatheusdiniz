@@ -33,42 +33,39 @@ typedef struct s_tmatheusdiniz
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-#### Main Stack:
+#### Languages:
 <br>
 <div align="left">
-	
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,eclipse,postman,git,github)](https://skillicons.dev)
-</div> 
 
-<div>
-<img src="./assets/coffe_img.png" min-width="500px" max-width="400px" width="400px" align="right" alt="Computer and coffe">
-<div style="float: left; width: 60%;">
-
-#### Secondary Stack:
-<br>
-<div align="left">
-	
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
-</div> 
-
-#### Database:
-
-<br>
-
-<div align="left">
-	
-[![My Skills](https://skillicons.dev/icons?i=mysql,mariadb)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript)](https://skillicons.dev)
 </div>
 
-#### Developer tools:
+#### Frameworks & Libraries:
 <br>
 <div align="left">
-	
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,neovim,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 </div>
 
+#### Databases:
+<br>
+<div align="left">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb)](https://go-skill-icons.vercel.app)
 </div>
+
+#### DevOps & Infrastructure:
+<br>
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,bash)](https://skillicons.dev)
+</div>
+
+#### Developer Tools:
+<br>
+<div align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,eclipse,postman)](https://skillicons.dev)
 </div>
 
 <div align="center">
