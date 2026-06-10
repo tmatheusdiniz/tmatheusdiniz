@@ -1,6 +1,6 @@
 ## **About Me**
 
-```c
+```
 typedef struct s_tmatheusdiniz
 {
 	const char *name = "Matheus Diniz";
