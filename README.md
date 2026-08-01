@@ -122,4 +122,4 @@ typedef struct s_tmatheusdiniz
 
 ### 🔮 Future Projects
 
-- 🎮 Transcendence (Java): Full-stack web application featuring a real-time multiplayer Pong game. Includes authentication, matchmaking, chat, and live gameplay using modern web technologies.
+- 🎮 Transcendence: Full-stack web application.
