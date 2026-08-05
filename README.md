@@ -119,3 +119,5 @@ typedef struct s_tmatheusdiniz
 ### 🛠️ Currently Working On
 
 - 🌐 Webserver (C++): Implementation of a fully functional HTTP web server in C++. Handles HTTP requests, CGI execution, file serving, configuration parsing, and concurrent connections — built following HTTP/1.1 standards.
+
+- 🎮 Transcendence: Full-stack web application.
